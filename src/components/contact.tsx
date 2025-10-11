@@ -1,0 +1,1 @@
+export default function Contact(){ return <section className="py-12 container mx-auto"><h2 className="text-2xl font-semibold">Contact</h2><p className="mt-2">📞 9015235520 • ✉️ binodsingh9971@gmail.com</p></section> }

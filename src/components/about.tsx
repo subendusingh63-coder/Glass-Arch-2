@@ -1,0 +1,1 @@
+export default function About(){ return <section className="py-12 container mx-auto"><h2 className="text-2xl font-semibold">About Us</h2><p className="mt-3 text-gray-600">Premium toughened glass, aluminium & uPVC solutions.</p></section> }

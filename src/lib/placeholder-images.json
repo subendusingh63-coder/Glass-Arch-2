@@ -1,0 +1,82 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-glass",
+      "description": "Modern glass architecture",
+      "imageUrl": "https://i.postimg.cc/fTGJ3tGF/56799be9-796e-4a55-ae35-7530b2dd0046.jpg",
+      "imageHint": "glass architecture"
+    },
+    {
+      "id": "mirror-1",
+      "description": "Custom Bathroom Mirror",
+      "imageUrl": "https://i.postimg.cc/tCM7C46f/IMG-20251004-WA0015-2.jpg",
+      "imageHint": "bathroom mirror"
+    },
+    {
+      "id": "mirror-2",
+      "description": "Modern Wall Mirror",
+      "imageUrl": "https://i.postimg.cc/t4nJ1Gtn/IMG-20251004-WA0029-2.jpg",
+      "imageHint": "wall mirror"
+    },
+    {
+      "id": "mirror-3",
+      "description": "LED Backlit Mirror",
+      "imageUrl": "https://i.postimg.cc/MpfHcJbQ/IMG-20251004-WA0031-2.jpg",
+      "imageHint": "led mirror"
+    },
+    {
+      "id": "mirror-4",
+      "description": "Decorative Entryway Mirror",
+      "imageUrl": "https://i.postimg.cc/pL5r9MYn/IMG-20251004-WA0032-2.jpg",
+      "imageHint": "entryway mirror"
+    },
+    {
+      "id": "aluminium-1",
+      "description": "Aluminium Office Cabin",
+      "imageUrl": "https://i.postimg.cc/HWKr4tWW/1759865324738-1.jpg",
+      "imageHint": "aluminium window"
+    },
+    {
+      "id": "aluminium-2",
+      "description": "Aluminium Profile Shower Enclosures",
+      "imageUrl": "https://i.postimg.cc/nLtVSdNx/IMG-20251004-WA0075.jpg",
+      "imageHint": "sliding window"
+    },
+    {
+      "id": "aluminium-3",
+      "description": "Modern Aluminium Partition",
+      "imageUrl": "https://i.postimg.cc/0QS2QYpC/Screenshot-20251007-170559-2.jpg",
+      "imageHint": "aluminium partition"
+    },
+    {
+      "id": "aluminium-4",
+      "description": "Modern Aluminiun Glass Railing",
+      "imageUrl": "https://i.postimg.cc/bJnNJxQT/Screenshot-20251007-170655-2.jpg",
+      "imageHint": "aluminium door"
+    },
+    {
+      "id": "glass-1",
+      "description": "Glass Wall Panel",
+      "imageUrl": "https://i.postimg.cc/cH7rxqGZ/IMG-20251004-WA0035-2.jpg",
+      "imageHint": "glass door"
+    },
+    {
+      "id": "glass-2",
+      "description": "Decorative Etched Glass",
+      "imageUrl": "https://i.postimg.cc/NFpFX100/IMG-20251004-WA0055.jpg",
+      "imageHint": "glass partition"
+    },
+    {
+      "id": "glass-3",
+      "description": "Glass Shower Enclosure",
+      "imageUrl": "https://i.postimg.cc/m27RK34p/IMG-20251004-WA0090.jpg",
+      "imageHint": "shower enclosure"
+    },
+    {
+      "id": "glass-4",
+      "description": "Customized Glass Door",
+      "imageUrl": "https://i.postimg.cc/W1mmHytB/Screenshot-20251008-004534.png",
+      "imageHint": "customized glass"
+    }
+  ]
+}

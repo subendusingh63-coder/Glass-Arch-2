@@ -1,0 +1,1 @@
+export default function Services(){ return <section className="py-12 container mx-auto"><h2 className="text-2xl font-semibold">Services</h2><ul className="mt-3 list-disc ml-6 text-left"><li>Toughened glass</li><li>Aluminium partitions</li><li>uPVC windows & doors</li></ul></section> }
